@@ -1,0 +1,20 @@
+C
+16
+//Testing the ability of the dictionary to add weird words and complex arrangements
+//should be finishable
+[abcde]
+so?
+mississippi&
+[wlctrspbmn]ay
+i&
+is!
+f?
+l!ama
+gam!a
+cait
+lait
+gait
+grit
+griy
+gray
+abrakadabraalakazamkazooeybluey
